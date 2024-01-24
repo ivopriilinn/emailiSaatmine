@@ -1,0 +1,2 @@
+# emailiSaatmine
+Hajusrakenduste alused kodutöö
