@@ -13,6 +13,6 @@ jobs:
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           subject: test maili pealkiri ${{github.repository}}
-          body: test maili sisu Ivo Priilinn TARge22
-          to: jyri.vaitmaa@tthk.ee
+          body: test maili sisu Ivo Priilinn TARge22 https://github.com/ivopriilinn/emailiSaatmine.git
+          to: ivopriilinn@gmail.com
           from: Github actions
